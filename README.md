@@ -1,5 +1,5 @@
 # eShop (An eCommerce Platform)
-
+to see the app in action,go to https://eshoppapp.herokuapp.com/
 > eCommerce platform built with the MERN stack
 
 ![Homepage](https://user-images.githubusercontent.com/81861223/159056903-3af53b10-526a-40bc-8f03-c7e42e638c03.jpeg)
