@@ -1,8 +1,6 @@
-# MeShop (An eCommerce Platform)
+# eShop (An eCommerce Platform)
 
 > eCommerce platform built with the MERN stack
-
-https://user-images.githubusercontent.com/76219383/158903493-9f8bc8e5-b82c-4605-8556-cfa87b92d697.mp4
 
 ## Features
 
